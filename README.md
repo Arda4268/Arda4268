@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba! Ben Arda Esmekaya 👋</h1>
+<h1 align="center">Merhaba! Ben Arda Eşmekaya 👋</h1>
 <h3 align="center">Backend Developer | Java, Spring Boot | Building Scalable & Innovative Software</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
 Ben Arda, 20 yaşındayım. Java ve Spring Boot ile ölçeklenebilir ve güvenilir sistemler inşa ederek backend geliştirme alanında uzmanlaşıyorum. Docker ve Kubernetes gibi teknolojilerle projeleri daha yönetilebilir ve verimli hale getiriyorum. Frontend tarafında ise React kullanarak kullanıcı odaklı arayüzler tasarlıyor ve full-stack projelere katkıda bulunuyorum.
 <br><br>
 Benim için yazılım geliştirmek sadece kod yazmak değil, aynı zamanda değer katan gerçek çözümler üretmektir. Sürekli öğrenmeye odaklanıyor, modern teknolojilerle sürdürülebilir ve yenilikçi yazılımlar geliştirmeyi hedefliyorum.
@@ -22,7 +22,7 @@ Benim için yazılım geliştirmek sadece kod yazmak değil, aynı zamanda değe
 
 ### 🚀 Kullandığım Teknolojiler ve Araçlar
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -38,6 +38,6 @@ Benim için yazılım geliştirmek sadece kod yazmak değil, aynı zamanda değe
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arda4268&show_icons=true&locale=tr&theme=radical" alt="Arda'nın GitHub İstatistikleri" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arda4268&layout=compact&locale=tr&theme=radical" alt="Arda'nın En Çok Kullandığı Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arda4268&show_icons=true&locale=tr&theme=radical&cache_seconds=86400" alt="Arda'nın GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arda4268&layout=compact&locale=tr&theme=radical&cache_seconds=86400" alt="Arda'nın En Çok Kullandığı Diller" />
 </p>
