@@ -2,6 +2,9 @@
 <h3 align="center">Backend Developer | Java, Spring Boot | Building Scalable & Innovative Software</h3>
 
 <p align="center">
+  <a href="https://ardaesmekaya.net" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Website"/>
+  </a>
   <a href="https://www.linkedin.com/in/arda-esmekaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -38,6 +41,6 @@ Benim için yazılım geliştirmek sadece kod yazmak değil, aynı zamanda değe
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arda4268&show_icons=true&locale=tr&theme=radical&cache_seconds=86400" alt="Arda'nın GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arda4268&layout=compact&locale=tr&theme=radical&cache_seconds=86400" alt="Arda'nın En Çok Kullandığı Diller" />
+  <img src="https://readme-stats.xyz/api?username=Arda4268&show_icons=true&locale=tr&theme=radical&cache_seconds=86400" alt="Arda'nın GitHub İstatistikleri" />
+  <img src="https://readme-stats.xyz/api/top-langs?username=Arda4268&layout=compact&locale=tr&theme=radical&cache_seconds=86400" alt="Arda'nın En Çok Kullandığı Diller" />
 </p>
