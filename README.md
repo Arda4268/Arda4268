@@ -41,6 +41,6 @@ Benim için yazılım geliştirmek sadece kod yazmak değil, aynı zamanda değe
 ### 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arda4268&show_icons=true&locale=tr&theme=radical" alt="Arda'nın GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arda4268&layout=compact&locale=tr&theme=radical" alt="Arda'nın En Çok Kullandığı Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arda4268&show_icons=true&locale=tr&theme=radical&v=1" alt="Arda'nın GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arda4268&layout=compact&locale=tr&theme=radical&v=1" alt="Arda'nın En Çok Kullandığı Diller" />
 </p>
